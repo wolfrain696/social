@@ -1,0 +1,9 @@
+.header{
+    grid-area:h;
+    background-image: linear-gradient(120deg, #b45201ab, #f89073);
+    border-radius: 30px;
+    }
+    .header img{
+    margin-left: 70px;
+    max-width: 60px;
+    }
